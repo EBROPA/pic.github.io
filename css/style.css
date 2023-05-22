@@ -1,0 +1,25 @@
+.infinity-slider-wrap {
+  border: 3px solid black;
+  width: 430px;
+  height: 600px;
+  margin: 50px auto;
+  position: relative;
+}
+
+.infinity-slider {
+  width: 430px;
+  height: 600px;
+  overflow: hidden;
+  position: relative;
+}
+
+.infinity-slider img {
+  width: 430px;
+  height: 600px;
+  position: absolute;
+  opacity: 1;
+}
+
+.infinity-slider .opacity0 {
+  opacity: 0;
+}

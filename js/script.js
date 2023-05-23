@@ -16,4 +16,6 @@ function slider() {
     }
 }
 
+slider();
+
 document.querySelector('.infinity-slider').onclick = slider;
